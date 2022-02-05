@@ -43,7 +43,7 @@ h3,
 h4,
 h5 {
   /*Purple*/
-  color: #6320ee;
+  color: #20eecc;
   margin-bottom: 1em;
 }
 
@@ -125,13 +125,15 @@ footer {
 }
 
 .giraffe {
-  background-color: #465775;
+  background-color: #483C46;
   color: #56e39f;
 }
 
+.giraffecolor{color:#F4743B;}
 .giraffe h2 {
   color: #ef6f6c;
 }
+.giraffep{color: #BEEE62;}
 
 .card {
   display: inline-block;
@@ -200,3 +202,4 @@ footer {
 .programs .card {
   display: block;
 }
+.news{text-align: center;}
