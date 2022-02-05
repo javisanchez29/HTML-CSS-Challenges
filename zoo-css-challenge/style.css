@@ -109,10 +109,11 @@ footer {
 
 .image-container img {
   vertical-align: top;
-  border: 5px solid #747c92;
+  border: 5px solid #1347d6;
 }
+#oso1{border-color: #f0e100;}
+#oso2{border-color: rebeccapurple;}
 
-.imagen1{border: #ef6f6c;}
 
 .image-container img:first-of-type {
   vertical-align: top;
