@@ -1,6 +1,8 @@
-* {
+* {line-height: 25pt;
   font-family: sans-serif;
+  line-height: 30px;
 }
+
 
 header {
   background-color: #211a1d;
@@ -32,6 +34,8 @@ section {
 img {
   border: 5px solid #8075ff;
 }
+
+#logo{border: none;}
 
 h1,
 h2,
@@ -75,7 +79,7 @@ footer {
   justify-content: space-between;
 }
 
-.introduction {
+.introduction {background-color: white;
 }
 
 #badge {
@@ -108,8 +112,10 @@ footer {
   border: 5px solid #747c92;
 }
 
+.imagen1{border: #ef6f6c;}
+
 .image-container img:first-of-type {
-  vertical-align: bottom;
+  vertical-align: top;
 }
 
 .tigers {
